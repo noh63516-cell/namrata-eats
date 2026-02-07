@@ -21,7 +21,7 @@ const Index = () => {
               <div className="col-span-2 md:col-span-1">
                 <div className="flex items-center gap-2 mb-4">
                   <span className="text-2xl">🍽️</span>
-                  <span className="text-xl font-bold text-gradient">Namrata Restaurant</span>
+                  <span className="text-xl font-bold text-red-600">Namrata Restaurant</span>
                 </div>
                 <p className="text-sm text-muted-foreground">
                   Delicious food delivered to your doorstep. Order from the best restaurants near you.
