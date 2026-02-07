@@ -11,14 +11,14 @@ const Header = () => {
       <div className="container flex h-16 items-center justify-between">
         <Link to="/" className="flex items-center gap-2">
           <span className="text-2xl">🍽️</span>
-          <span className="text-xl font-bold text-gradient">Namrata Restaurant</span>
+          <span className="text-xl font-bold text-red-600">Namrata Restaurant</span>
         </Link>
 
         <div className="hidden md:flex items-center gap-2 text-sm text-muted-foreground">
           <MapPin className="h-4 w-4 text-primary" />
           <span>Delivering to:</span>
           <Button variant="ghost" size="sm" className="font-semibold text-foreground">
-            123 Main Street
+            143 Main Street
           </Button>
         </div>
 
