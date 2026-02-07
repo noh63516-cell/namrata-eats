@@ -21,7 +21,7 @@ const Index = () => {
               <div className="col-span-2 md:col-span-1">
                 <div className="flex items-center gap-2 mb-4">
                   <span className="text-2xl">🍽️</span>
-                  <span className="text-xl font-bold text-red-600">Namrata Restaurant</span>
+                  <span className="text-xl font-bold text-red-600">FOOD HUB</span>
                 </div>
                 <p className="text-sm text-muted-foreground">
                   Delicious food delivered to your doorstep. Order from the best restaurants near you.
@@ -57,7 +57,7 @@ const Index = () => {
             </div>
             
             <div className="border-t mt-8 pt-8 text-center text-sm text-muted-foreground">
-              © 2026 Namrata Restaurant. All rights reserved.
+              © 2026 FOOD HUB. All rights reserved.
             </div>
           </div>
         </footer>
